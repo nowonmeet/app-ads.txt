@@ -1,0 +1,2 @@
+# app-ads.txt 販売者リスト
+google.com, pub-2993197407852082, DIRECT, f08c47fec0942fa0
